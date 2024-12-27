@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.springboot.mybatisweb.service.CommentMapper">
+
+
+	<insert id="insertComment" parameterType="CommentDo">
+		insert into comments values(null, #{dog_id}, #{writer}, #{password},
+		#{content}, NOW())
+	</insert>
+
+
+	<select id="getCommentList" resultType="CommentDo">
+		select *, time as createdDate from comments where seq = #{dog_id}
+	</select>
+
+	<!-- 댓글 삭제 전 정보 조회 -->
+	<select id="getCommentInfo" parameterType="int" resultType="CommentDo">
+		select * from comments where comments_id = #{comments_id}
+	</select>
+
+	<delete id="deleteComment" parameterType="CommentDo">
+		delete from comments where comments_id=#{comments_id}
+	</delete>
+
+
+</mapper>
