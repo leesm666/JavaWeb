@@ -11,3 +11,4 @@ IDE: STS 4 (Spring Tool Suite 4) \
 **데이터베이스** \
 DBMS: MySQL \
 관리 도구: HeidiSQL 
+![image](https://github.com/user-attachments/assets/38f3062c-f18e-4d3c-8964-43a9dd0c8080)
