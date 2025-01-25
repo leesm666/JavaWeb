@@ -13,12 +13,16 @@ DBMS: MySQL \
 관리 도구: HeidiSQL \
 
 **반려견 커뮤니티**
-![image](https://github.com/user-attachments/assets/38f3062c-f18e-4d3c-8964-43a9dd0c8080)
 
 
-![image](https://github.com/user-attachments/assets/64bb61c1-86e6-4b2f-a974-7cc704656d83)
-![스크린샷 2024-12-30 200820](https://github.com/user-attachments/assets/283f9640-15f9-428e-b2d7-e997c02b0d75)
-![스크린샷 2024-12-30 200724](https://github.com/user-attachments/assets/0234187a-c01b-4b96-aaf6-b69c86cb4e5f)
+![슬라이드2](https://github.com/user-attachments/assets/374c4325-a55a-4aa9-8922-02e3bfbdfe60)
+![슬라이드3](https://github.com/user-attachments/assets/b71bc06d-82d3-47f6-a2e6-fa6d3cbcf2bc)
+![슬라이드4](https://github.com/user-attachments/assets/1ca38319-7211-44df-8f7e-44f6b31af277)
+![슬라이드5](https://github.com/user-attachments/assets/6fce5650-aedb-4ef6-ac47-be2b546c5eaa)
+![슬라이드6](https://github.com/user-attachments/assets/3e130c06-659c-46a8-812f-7835ebcc0f9f)
+![슬라이드7](https://github.com/user-attachments/assets/69c14ee8-ab7c-4d1d-98c6-22b22cb0b30f)
+![슬라이드8](https://github.com/user-attachments/assets/6965e2c2-1b32-4242-9537-f787e2134168)
+![슬라이드9](https://github.com/user-attachments/assets/61d6575d-1187-4d1c-88e4-a38602620e6e)
 
 
 
