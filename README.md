@@ -15,7 +15,6 @@ DBMS: MySQL \
 **반려견 커뮤니티**
 
 
-![슬라이드2](https://github.com/user-attachments/assets/374c4325-a55a-4aa9-8922-02e3bfbdfe60)
 ![슬라이드3](https://github.com/user-attachments/assets/b71bc06d-82d3-47f6-a2e6-fa6d3cbcf2bc)
 ![슬라이드4](https://github.com/user-attachments/assets/1ca38319-7211-44df-8f7e-44f6b31af277)
 ![슬라이드5](https://github.com/user-attachments/assets/6fce5650-aedb-4ef6-ac47-be2b546c5eaa)
